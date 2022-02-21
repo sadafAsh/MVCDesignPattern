@@ -40,8 +40,8 @@ sonarqube {
         property "sonar.exclusions", "**/*Main.java"
 
         property 'sonar.host.url', 'http://localhost:9000'
-        property 'sonar.login','67a2677839d70d06bfca7ffdaf4ebbe42ed6176a'
-        property 'sonar.projectKey','Polymorphism'
+        property 'sonar.login','973f3376b24566dd37475a15798fa1ec507181d0'
+        property 'sonar.projectKey','MVCDesignPattern'
     }
 }
 
